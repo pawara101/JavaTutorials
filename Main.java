@@ -9,5 +9,9 @@ public class Main {
       String name = "John";
       System.out.println(name);
 
+      int myNum =15;
+      // change myNum to 20
+      myNum = 20;
+      System.out.println("Total is "+ myNum*3);
     }
   }
