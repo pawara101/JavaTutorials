@@ -12,6 +12,13 @@ public class Main {
       int myNum =15;
       // change myNum to 20
       myNum = 20;
+      float myFloatNum = 5.7805f;
+      char myLtr = 'D'; //single quotes
+      boolean myBool = false;
       System.out.println("Total is "+ myNum*3);
+
+      String Fname = "Pawara";
+      String Lname = "Tharkana";
+      System.out.println(Fname + Lname);
     }
   }
